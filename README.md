@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @paras7003
-- 📫 How to reach me ...
 
 <!---
 paras7003/paras7003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
